@@ -1,0 +1,27 @@
+License for Norwegian Inform (aka Norwegian.h) and its accompanying files
+---------------------------------------------------------------------
+
+No one may sell this package, alone or as part of anything else. The same
+goes for any subset of this package, except the compiled code that is
+included in game files compiled using this package.
+
+Games which have been compiled using this package belong entirely to the author
+of the game, and compiled games may be distributed in any way the author
+chooses, including being sold for profit.
+
+Derivative works must give proper credit as to the origins of the code. Game
+authors do not have to give credit in compiled games if they don't want to.
+However, I hope they will want to.
+
+Derivative works may not be sold. Any distribution of derivative works must also
+include this original license and possibly an additional license to further
+restrict the use of these works.
+
+Any use of this package which is forbidden by this licence, requires an
+explicit permission by the author, who can be reached at
+eirik.kr+inform@gmail.com.
+
+Other people's work which is included in this package may have licenses of
+their own. Don't distribute any of that work unless you know that you are
+not violating their licenses. If in doubt, send a query directly to the
+author of that work, or to eirik.kr+inform@gmail.com.
